@@ -8,3 +8,5 @@ To mark the item purchased, the item will turn blue when clicked.
  
  Results.
  The end result is a list of shopping items. Which can be marked blue when purchased and can also be deleted when the user changes their mind.
+
+ link to the shopping list : (https://dainty-alpaca-c7eee7.netlify.app/)
